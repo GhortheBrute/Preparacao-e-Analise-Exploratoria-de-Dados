@@ -1,0 +1,12 @@
+Eu acho que seria interessante investigar essa base de dados através de aprendizagem de máquina, podendo analisar por várias frentes e descobrir detalhes novos e interessantes. Talvez construir uma base de aprendizagem ampla, para descobrir pequenos fatos interessantes, após ir afunilando, conforme cada fato por sendo descoberto. Também como poder criar um modelo de previsão se o funcionário é uma Pessoa de Interesse (POI) ou não. Seria proveitoso criar um aprendizado de máquina de um dataset que você já conhece.
+
+
+Pesquisaria quais são os dados mais relevantes para esse aprendizado, limpar e tratar os dados mais efetivamente (remoção, imputação, normalização e tratamento de outliers), além de aplicar algoritmos de aprendizado de máquina e ver qual apresenta um melhor resultado.
+
+
+Outra abordagem interessante é a criação de novas variáveis derivadas das existentes, com o objetivo de revelar padrões ocultos ou comportamentos atípicos. Talvez possa descobrir novas relaçoes entre as variáveis através dessa abordagem.
+
+
+Através delas, talvez seja possível descobrir novas e interessantes anomalias, podendo ser útil para complementar mais tanto o que se entende pelo assunto, como a aprendizagem de máquina exemplificada anteriormente.
+
+Posso também utilizar o outro dataset de e-mails da Enron, que também oferece uma oportunidade única de explorar a estrutura de comunicação entre os funcionários por meio de análise de redes (network analysis). Analisando as interações de e-mail entre os funcionários, pois, apesar das Pessoas de interesse possuírem uma quantidade muito menor de e-mails, talvez haja coisas interessantes nos e-mails das Pessoas de Interesse para as que não são Pessoas de Interesse.
